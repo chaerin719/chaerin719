@@ -1,4 +1,4 @@
-<img src="https://files.oaiusercontent.com/file-fySKnsJwpG2k1fm2F5nBiGgJ?se=2024-11-22T02%3A00%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0cc4c407-88ee-4c12-a6a9-c7a15672cae4.webp&sig=dswxm/6mBLeP%2Bj7aon6WE1p6F5Tx0O6NLrGDZ0bhbSU%3D" width="1000" height="400"/>
+<img src="https://ibb.co/YLM00Dk" width="1000" height="400"/>
 
 <hr>
 <hr>
