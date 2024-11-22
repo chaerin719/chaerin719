@@ -1,12 +1,14 @@
-<img src="https://ibb.co/YLM00Dk" width="1000" height="400"/>
+<img src="https://raw.githubusercontent.com/chaerin719/chaerin719/refs/heads/main/0cc4c407-88ee-4c12-a6a9-c7a15672cae4.webp" width="1000" height="400"/>
 
 <hr>
 <hr>
+
+<img src = 'https://github.com/chaerin719/chaerin719/blob/main/octo.gif?raw=true' alt = 'Awesome Matrix Code' align='right' width="200" height="200"/>
 	
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=25&pause=1000&repeat=false&width=435&lines=Hello+World%2C+I'm+Chaerin+Oh)](https://git.io/typing-svg)
 
-</div>
 
+</div>
 
 
 <hr>
@@ -49,7 +51,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> # 🎫 Projects: </h2> <br> 
-- 👋 My **Youtube Channel**    
+👋 My **Youtube Channel**    
 https://youtube.com/channel/UCVytBok0KZ4emRzdLTbnJCw?si=zAlzD2vRbNDhI2rn
           </div>  <br> 
     <div style="text-align: left;"> 
