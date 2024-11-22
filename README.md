@@ -41,9 +41,9 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> # 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=""> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=insta_url"> </a>
+    <div align= "center"> <a href="https://www.instagram.com/chrn_5/profilecard/?igsh=aXRubTJoeXQyNnhj"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=insta_url"> </a>
          <a href=mailto:"chaerin030719@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gmail_url"> </a>
-         <a href=""> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=blog_url"> </a>
+         <a href="https://blog.naver.com/chaerin0719"> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=blog_url"> </a>
           </div>  <br> 
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaerin719%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
