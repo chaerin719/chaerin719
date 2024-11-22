@@ -81,6 +81,8 @@ https://youtube.com/channel/UCVytBok0KZ4emRzdLTbnJCw?si=zAlzD2vRbNDhI2rn
 - 💼 I am an **positive person**.
 - 💬 If you have any questions, **just ask me**.
 
+<br>
+
 **My Goals in Art&Tech:** 
 - Improve coding skills
 - Learn and utilize various tools
@@ -98,8 +100,4 @@ https://youtube.com/channel/UCVytBok0KZ4emRzdLTbnJCw?si=zAlzD2vRbNDhI2rn
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/chaerin719" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-
-<div style="text-align: left;"> 
-[![gitanimals](https://render.gitanimals.org/farms/chaerin719)](https://github.com/devxb/gitanimals)
 
