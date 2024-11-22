@@ -20,9 +20,9 @@
 - 👋 Hi, I’m **Chaerin Oh**
 - 👨‍🏛 I am currently a student of **CHUNG-ANG UNIVERSITY**.
 - 💻 Major is **Art & Tech**.
-- 👀 I’m interested in Filmmaking, Photoshop, and illustration design.
-- 🤔 My hobbies are **listening music, watching youtube**.
-- 💼 I am an **positive person**.
+- 👀 I’m interested in Filmmaking, Design, VFX.
+- 🤔 My hobbies are **listening music, watching video**.
+- 💼 I am a **Programming Rookie**.
 - 💬 If you have any questions, **just ask me**.</div> 
     </div>
     <div style="text-align: left;">
@@ -31,6 +31,12 @@
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+	    <br> 
+	  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+	  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=black" />
+	  <img src="https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=black" />
+	  <img src="https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?&style=for-the-badge&logo=adobe%20after%20effects&logoColor=black" />
+	  <img src="https://img.shields.io/badge/autodesk-%230696D7.svg?&style=for-the-badge&logo=autodesk&logoColor=white" />
           </div>
     </div>
     <div style="text-align: left;">
@@ -50,8 +56,14 @@
 ➡️ My **Youtube Channel**    
 
 https://youtube.com/channel/UCVytBok0KZ4emRzdLTbnJCw?si=zAlzD2vRbNDhI2rn
-- **self-introduction video**
-- **introduction to art&tech Final Project**
+- self-introduction video
+- introduction to art&tech Final Project
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <br>
+
+➡️ **Basic Programming**
+- Drawing a Flag Using Turtle
+- Creating a Pygame
 		</div>
           </div> <br>
     <div style="text-align: left;"> 
@@ -68,6 +80,11 @@ https://youtube.com/channel/UCVytBok0KZ4emRzdLTbnJCw?si=zAlzD2vRbNDhI2rn
 - 🤔 My hobbies are **listening music, watching youtube**.
 - 💼 I am an **positive person**.
 - 💬 If you have any questions, **just ask me**.
+
+**My Goals in Art&Tech:** 
+- Improve coding skills
+- Learn and utilize various tools
+- Create My own projects
 
 <br><br>
 
