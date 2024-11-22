@@ -5,17 +5,10 @@
 
 <img src = 'https://github.com/chaerin719/chaerin719/blob/main/octo.gif?raw=true' alt = 'Awesome Matrix Code' align='right' width="200" height="200"/>
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=25&pause=1000&repeat=false&width=435&lines=Hello+World%2C+I'm+Chaerin+Oh)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&pause=1000&color=E96479&repeat=false&width=435&lines=Hello+World%2C+I'm+Chaerin+Oh.;Welcome+to+my+profile!;Enjoy+your+time+here!!)](https://git.io/typing-svg)
 
 </div>
-
-
 <hr>
-
-
-<img src="party-furby.gif" align="right" width="60">
-
 
 <div align= "center">
     <img />
@@ -51,9 +44,16 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> # 🎫 Projects: </h2> <br> 
-👋 My **Youtube Channel**    
+
+<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+  
+➡️ My **Youtube Channel**    
+
 https://youtube.com/channel/UCVytBok0KZ4emRzdLTbnJCw?si=zAlzD2vRbNDhI2rn
-          </div>  <br> 
+- **self-introduction video**
+- **introduction to art&tech Final Project**
+		</div>
+          </div> <br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> # 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=chaerin719&bg_color=180,00000000,&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin719&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
@@ -63,12 +63,25 @@ https://youtube.com/channel/UCVytBok0KZ4emRzdLTbnJCw?si=zAlzD2vRbNDhI2rn
 <hr>
 
 **More TMI:** 
+- 🎂 **2003.07.19**
 - 🌱 I'm currently learning **photoshop, and many other tools**.
 - 🤔 My hobbies are **listening music, watching youtube**.
 - 💼 I am an **positive person**.
 - 💬 If you have any questions, **just ask me**.
 
 <br><br>
+
+<hr>
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
+
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/chaerin719" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
 
 <div style="text-align: left;"> 
 [![gitanimals](https://render.gitanimals.org/farms/chaerin719)](https://github.com/devxb/gitanimals)
