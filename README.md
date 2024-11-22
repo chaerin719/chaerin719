@@ -23,9 +23,9 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
 
 - 👋 Hi, I’m **Chaerin Oh**
-- 👨‍🏛 I am currently a student of **Chungang Uni.**
+- 👨‍🏛 I am currently a student of **CHUNG-ANG UNIVERSITY**.
 - 💻 Major is **Art & Tech**.
-- 👀 I’m interested in creating websites with Python 
+- 👀 I’m interested in Filmmaking, Photoshop, and illustration design.
 - 🤔 My hobbies are **listening music, watching youtube**.
 - 💼 I am an **positive person**.
 - 💬 If you have any questions, **just ask me**.</div> 
